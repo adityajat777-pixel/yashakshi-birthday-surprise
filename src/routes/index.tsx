@@ -282,6 +282,7 @@ function BirthdaySurprise() {
     }
 
     const timeout = window.setTimeout(() => {
+      lastTime = performance.now()
       frame = requestAnimationFrame(scroll)
     }, 4500)
 
