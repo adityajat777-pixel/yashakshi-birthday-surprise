@@ -988,7 +988,7 @@ h2 {
   }
 
   .intro-card h1 {
-    font-size: clamp(2.8rem, 13vw, 5rem);
+    font-size: clamp(2.35rem, 11.5vw, 5rem);
   }
 
   .chick-orbit {
